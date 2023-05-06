@@ -1,0 +1,3 @@
+skill 1: basic theory
+skill 2: HTTP Server Request Methods
+skill 3: SQL basics
