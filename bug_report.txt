@@ -2,7 +2,7 @@ application_name :Capital.com
 version: 1
 Sverity: Critical
 Environment: iPhon 14 pro iOS 16.4.1
-Title>: приложение вылетает при запуске
+Title: приложение вылетает при запуске
 Steps: открыть приложение Capital.com
 Expected Result: приложение открывается
 Actual Result: приложение вылетает
